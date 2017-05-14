@@ -1,0 +1,6 @@
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\bin\Debug\PlatafomasProprietaria.exe.config
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\bin\Debug\PlatafomasProprietaria.exe
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\bin\Debug\PlatafomasProprietaria.pdb
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\obj\Debug\PlatafomasProprietaria.exe
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\obj\Debug\PlatafomasProprietaria.pdb
+C:\Users\Everto Castro\Desktop\Pós-graduação\windons phone aulas\Projeto\PlatafomasProprietaria\PlatafomasProprietaria\obj\Debug\PlatafomasProprietaria.csprojResolveAssemblyReference.cache
